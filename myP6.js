@@ -152,7 +152,6 @@ function countDown(){
     myTime.innerHTML = time;
 }
 
-
 var previousRandomIndex = null;
 function showWord(words){
     const randomIndex = Math.floor( Math.random() * words.length ) ;
