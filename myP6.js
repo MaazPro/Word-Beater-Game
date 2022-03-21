@@ -1,10 +1,12 @@
 /*
+
 #levels
 #seconds
 #current-word
 #word-input
 #time
 #score
+
 */
 window.addEventListener('load',init);
 
